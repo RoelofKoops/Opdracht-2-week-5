@@ -1,5 +1,114 @@
-body{
-  	 line-height: 1.7em; font-family: 'Roboto', sans-serif; 
-	color: rgba(255, 255, 255, 0.8);
-	background-color: blue
+body {
+	 font-family: 'Roboto', sans-serif;
+	 color: rgba(255, 255, 255, 0.8);
+	 background: url("../images/background.jpg") no-repeat;
+	 background-size:cover;
+	 background-color: #cccccc;
 }
+
+.center {
+	 float: right;
+
+	 position: relative;
+  left: -40%; 
+
+  
+}
+
+.home{
+	 float: right;
+
+	 position: relative;
+  left: -65%; 
+
+}
+
+.wiel{
+	float: right;
+
+	 position: relative;
+  left: -55%; 
+}
+
+.copy{
+	float: right;
+
+	 position: relative;
+  left: -45%; 
+}
+
+.blok{
+	float: right;
+
+	 position: relative;
+  left: -35%; 
+}
+
+.blog{
+		float: right;
+
+	 position: relative;
+  left: -25%; 
+}
+
+.text{
+			float: right;
+
+	 position: relative;
+  left: -15%; 
+}
+
+.htext{
+	 float: right;
+
+	 position: relative;
+  left: -45%; 
+}
+
+.wtext{
+	 float: right;
+
+	 position: relative;
+  left: -34%; 
+}
+
+.ctext{
+	 float: right;
+
+	 position: relative;
+  left: -23%; 
+}
+
+.ptext{
+	 float: right;
+
+	 position: relative;
+  left: -11%; 
+}
+
+.btext{
+	 float: right;
+
+	 position: relative;
+  left: 0%; 
+}
+
+.ttext{
+	 float: right;
+
+	 position: relative;
+  left: 11%; 
+}
+
+
+
+
+
+
+
+
+
+	
+	
+
+  	
